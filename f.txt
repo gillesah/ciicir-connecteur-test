@@ -1,1 +1,2 @@
 [SUBST] premier essai de depot sans solvant
+[SUBST] echec : adherence insuffisante apres 48 h
